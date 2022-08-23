@@ -17,7 +17,7 @@ Languages and Tools:<br/>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="javascript" width="40" height="40"/> </a>
   
-<a href="https://www.typescriptlang.org/" target="_blank"> 
+<a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   
  <a href="https://www.w3.org/html/" target="_blank"> 
