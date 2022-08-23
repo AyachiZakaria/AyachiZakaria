@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-🌱 I’m currently learning machine learning 😄<br/>
+🌱 I’m currently learning machine learning 😄🌱And Kotlin<br/>
 🔭 I’m currently working on creating a chatbot and a chatroom <br/>
 💬 Ask me about problem solving and QT/cpp<br/>
 Connect with me:
