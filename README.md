@@ -1,6 +1,6 @@
 ### Hi there, im Ayachi Zakaria 👋
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/scaler-official-work-computer-pro-wcgn5fVDjvR7pdvz4C)" width="100"/>
+  <img src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" width="100"/>
 </div>
 <!--  
 Here are some ideas to get you started:
